@@ -1,16 +1,45 @@
-# todolist
+# ToDoList App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a simple ToDoList app built using Flutter. It allows users to create, update, and delete tasks.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add new tasks with title and description
+- Mark tasks as completed
+- Edit existing tasks
+- Delete tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+## Installation
+
+1. Clone the repository:
+   
+2. Navigate to the project directory:
+ 
+
+3. Install dependencies:
+
+4. Run the app:
+
+
+## Screenshots
+
+Include screenshots of the app here.
+
+## Contributing
+
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
